@@ -1,13 +1,13 @@
 # Installing
-1. clone repository https://github.com/r0kaT/tgbotchecker.git or Download ZIP
-2. unzip it and edit a "config.py" file
-3. run "main.py"
+1. Clone repository https://github.com/r0kaT/tgbotchecker.git or Download ZIP
+2. Unzip it and edit a "config.py" file
+3. Run "main.py"
 
 ## Available checkers:
 - JUP checker
 - KiloEx checker
 - Hyperlane checker
 
-# enjoy it
+# Enjoy it
 
-###### any questions -> t.me/r0kat
+###### Any questions -> t.me/r0kat
